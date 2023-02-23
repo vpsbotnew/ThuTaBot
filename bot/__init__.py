@@ -15,11 +15,11 @@ APP_ID = int("12158462")
 
 API_HASH = "0b962717d931f4480c46d56c85d409a5"
 
-BOT_TOKEN = "5989078394:AAFX3-bU_4_8NeM8d2q2TEknJ_SCU45d9GI"
+BOT_TOKEN = "6105683190:AAG3RQFXa_LArBNeuyIDuXkL_j-vaKwp0Hk"
 
-DB_URI = "mongodb+srv://ynmoviefilter:ynmoviefilter@cluster0.6erlpc6.mongodb.net/?retryWrites=true&w=majority"
+DB_URI = "mongodb+srv://pmfilter:pmfilter@cluster0.xvulgll.mongodb.net/?retryWrites=true&w=majority"
 
-USER_SESSION = "BQDCa1DUZ6h4Yb4znhffXZzxtRCSYHE1-u0jDUPeuRRKuqEzCZPm3gRjulYYQs9tU3yRhMxpaYB2ju2AnjB50Y-uCd6EaOyRRtfNoSp7hbevc1KNbZlm4MHL2pSTjaEs7aCTV2oQTolOWOH9NwFOkBwPFVc37pQxJQV82hYXGLknIxdap9Sz88pxNdWhb82FWIwrecjfdKVu2OwGBPV6wdPF2MfJ9xL5DqaWqsJ4oA3qlPkfhrzNToT9EO_EeQCl1_V8GO59HCGKKmHBWOtZQdyUrRiq3ToRJdPQ1ahhpZu9CgjX8tr8BSsZ8EzXk4kRWZ9Vik-5-rrlmwoXdYXLGmRnUFsxVQA"
+USER_SESSION = "BQAnm8T-4nJI42k_XyHzcqlF0mtk8IyNJ02MQuNbhTP82Lp-wcjzhiGFIUSYI6HXxAHi9wNdRUnqz2Uc7fVcQILkARaPKT_0HUr9Q2zqyesEv6V7KG3oQtT-arJgar8p7gPQfb5S6m822eO6gfxTt-_V1xJ0dmBW3v4zeycVGMrKgJ5flhBt2cHh_mgwt9W1m3jbm5Ids8Ch5CEnhoM7_U8FQKGP4WGUB9SbNLkw3bbKmb_HOFxr55tSwhw6qvuL-ZJ_IeJ_uGSiIcklhkR8-qs85XZ2SiyeWCt49T5IAQAr2TvAfi2i8cmq4pqOCORlkH9QJyrAKjNgwKGDxXbbwKxTUFsxVQA"
 
 VERIFY = {}
 
