@@ -1,0 +1,35 @@
+[29-Oct-22 11:54:25 - INFO] - bot.bot - @MTYAutoReplyBot  started! 
+[29-Oct-22 11:54:25 - WARNING] - pyrogram.storage.memory_storage - You are using an old session string format. Use export_session_string to update
+[29-Oct-22 11:54:29 - INFO] - root - Stop signal received (SIGINT). Exiting...
+[29-Oct-22 11:54:29 - INFO] - bot.bot - Bot stopped. Bye.
+[29-Oct-22 13:07:46 - INFO] - bot.bot - @MTYAutoReplyBot  started! 
+[29-Oct-22 13:07:46 - WARNING] - pyrogram.storage.memory_storage - You are using an old session string format. Use export_session_string to update
+[29-Oct-22 13:33:41 - INFO] - root - Stop signal received (SIGINT). Exiting...
+[29-Oct-22 13:33:42 - INFO] - bot.bot - Bot stopped. Bye.
+[29-Oct-22 13:33:57 - INFO] - bot.bot - @MTYAutoReplyBot  started! 
+[29-Oct-22 13:33:57 - WARNING] - pyrogram.storage.memory_storage - You are using an old session string format. Use export_session_string to update
+[29-Oct-22 14:58:03 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: timed out
+[29-Oct-22 14:58:06 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: timed out
+[29-Oct-22 14:58:14 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: timed out
+[29-Oct-22 14:58:17 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: timed out
+[29-Oct-22 14:58:25 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: timed out
+[29-Oct-22 14:58:26 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[29-Oct-22 14:58:28 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: timed out
+[29-Oct-22 14:58:29 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[29-Oct-22 14:58:36 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: timed out
+[29-Oct-22 14:58:39 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: timed out
+[29-Oct-22 14:58:47 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: timed out
+[29-Oct-22 14:58:50 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: timed out
+[29-Oct-22 14:58:58 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: timed out
+[29-Oct-22 14:58:58 - WARNING] - pyrogram.session.session - [5] Retrying "updates.GetChannelDifference" due to Value after * must be an iterable, not NoneType
+[29-Oct-22 14:58:59 - WARNING] - pyrogram.connection.connection - Connection failed! Trying again...
+[29-Oct-22 15:10:24 - INFO] - root - Stop signal received (SIGINT). Exiting...
+[29-Oct-22 15:10:25 - INFO] - bot.bot - Bot stopped. Bye.
+[03-Jan-23 07:17:39 - INFO] - bot.bot - @MTYAutoReplyBot  started! 
+[03-Jan-23 07:17:39 - WARNING] - pyrogram.storage.memory_storage - You are using an old session string format. Use export_session_string to update
+[03-Jan-23 07:19:28 - INFO] - root - Stop signal received (SIGINT). Exiting...
+[03-Jan-23 07:19:29 - INFO] - bot.bot - Bot stopped. Bye.
+[11-Jan-23 09:15:43 - INFO] - bot.bot - @mtyeditorbot  started! 
+[11-Jan-23 09:15:43 - WARNING] - pyrogram.storage.memory_storage - You are using an old session string format. Use export_session_string to update
+[11-Jan-23 09:16:21 - INFO] - root - Stop signal received (SIGINT). Exiting...
+[11-Jan-23 09:16:23 - INFO] - bot.bot - Bot stopped. Bye.
