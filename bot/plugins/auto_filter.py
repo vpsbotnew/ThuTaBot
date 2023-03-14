@@ -205,7 +205,7 @@ async def auto_filter(bot, update):
 		try:
 			await bot.send_photo(
 				chat_id = update.chat.id,
-				photo= "./bot/photo_2023-01-11_21-39-47.jpg",
+				photo= "./bot/thuta.jpg",
 				caption=f"{update.from_user.mention}🧑‍💻,{query}အတွက် ▶️{(len_results)}ခု ရှာတွေ့ပါတယ်။👇\n\n ✉️ဆက်သွယ်ရန်👇 \n<a href='https://t.me/thuta2002'>Memberသစ်များ</a> ♡ <a href='https://t.me/thuta2002'>ကြော်ငြာရှင်များ</a>",          
 				reply_markup=reply_markup,
 				parse_mode=enums.ParseMode.HTML,
