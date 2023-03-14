@@ -141,7 +141,7 @@ async def cb_navg(bot, update: CallbackQuery):
         achatId = None
         #finder = {message.from_user.mention},
     reply_markup = InlineKeyboardMarkup(temp_results)
-    text=f"{update.from_user.mention}🧑‍💻,{query}အတွက် ▶️{leng}ခု ရှာတွေ့ပါတယ်။👇\n\n ✉️ဆက်သွယ်ရန်👇 \n<a href='https://t.me/YNVIPMEMBERBOT'>Memberသစ်များ</a> ♡ <a href='https://t.me/YoeNaung'>ကြော်ငြာရှင်များ</a>"
+    text=f"{update.from_user.mention}🧑‍💻,{query}အတွက် ▶️{leng}ခု ရှာတွေ့ပါတယ်။👇\n\n ✉️ဆက်သွယ်ရန်👇 \n<a href='https://t.me/thuta2002'>Memberသစ်များ</a> ♡ <a href='https://t.me/thuta2002'>ကြော်ငြာရှင်များ</a>"
                
     try:
         await update.message.edit(
